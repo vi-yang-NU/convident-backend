@@ -1,0 +1,112 @@
+Uploading new file: {'file': ('Sentence 1.m4a', <_io.BufferedReader name='/Users/viyang/Downloads/Sentence 1.m4a'>, 'audio/m4a')}
+push-queue response: 500
+the queue has ended, starting post-processing
+Correct tone transcript['V', '\\', 'V', '\\']
+transcript: [('两', 719.9999700000001, 1220.0), ('位', 3600.0, 3679.9998), ('两', 4080.0, 4580.0), ('位', 5370.0, 5870.0)]
+user's tone transcript'
+['V', 'V', 'V', 'V', '\n']
+starting compare_lists 
+compare_lists percent similarity: 50.0
+words not in common: ['\\', '\\']
+wrong vocab positions[1, 3]
+tones compared 
+end-queue response: 200
+cleanup response: 200
+Uploading new file: {'file': ('Sentence 2.m4a', <_io.BufferedReader name='/Users/viyang/Downloads/Sentence 2.m4a'>, 'audio/m4a')}
+push-queue response: 500
+the queue has ended, starting post-processing
+Correct tone transcript['\\', 'V', 'V']
+transcript: [('二', 440.0, 480.0), ('白', 2240.0, 2740.0), ('五', 4250.0, 4750.0)]
+user's tone transcript'
+[' na ', ' na ', ' na ', '\n']
+starting compare_lists 
+compare_lists percent similarity: 0.0
+words not in common: ['\\', 'V', 'V']
+wrong vocab positions[0, 1, 2]
+tones compared 
+end-queue response: 200
+cleanup response: 200
+Uploading new file: {'file': ('Sentence 3.m4a', <_io.BufferedReader name='/Users/viyang/Downloads/Sentence 3.m4a'>, 'audio/m4a')}
+push-queue response: 500
+the queue has ended, starting post-processing
+Correct tone transcript['V', '-', 'V', '-', '\\', '-', '/']
+transcript: [('好', 560.0, 1060.0), ('的', 5920.0, 6420.0), ('谢', 7520.0, 8020.0), ('您', 8639.999, 9139.999)]
+user's tone transcript'
+[' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', '\n']
+starting compare_lists 
+compare_lists percent similarity: 0.0
+words not in common: ['V', '-', 'V', '-', '\\', '-', '/']
+wrong vocab positions[0, 1, 2, 3, 4, 5, 6]
+tones compared 
+end-queue response: 200
+cleanup response: 200
+Uploading new file: {'file': ('Sentence 4.m4a', <_io.BufferedReader name='/Users/viyang/Downloads/Sentence 4.m4a'>, 'audio/m4a')}
+push-queue response: 500
+the queue has ended, starting post-processing
+Correct tone transcript['V', '-', '\\', '/', 'V', '\\', '-', '/']
+transcript: [('好', 960.0, 1460.0), ('的', 3760.0, 4000.0), ('听', 4080.0, 4580.0), ('起', 7540.0, 7799.9997), ('来', 8059.999, 8320.0), ('还', 8720.0, 9220.0), ('不', 9739.124, 10239.124), ('错', 11189.125, 11689.125)]
+user's tone transcript'
+[' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', '\n']
+starting compare_lists 
+compare_lists percent similarity: 0.0
+words not in common: ['V', '-', '\\', '/', 'V', '\\', '-', '/']
+wrong vocab positions[0, 1, 2, 3, 4, 5, 6, 7]
+tones compared 
+end-queue response: 200
+cleanup response: 200
+Uploading new file: {'file': ('Sentence 5.m4a', <_io.BufferedReader name='/Users/viyang/Downloads/Sentence 5.m4a'>, 'audio/m4a')}
+push-queue response: 500
+the queue has ended, starting post-processing
+Correct tone transcript['/', '-', '\\', 'V', 'V', '/', '-', '\\', '-']
+transcript: [('你', 1680.0, 1760.0), ('好', 2560.0, 2879.9999000000003), ('先', 4240.0, 4740.0), ('给', 5600.0, 6100.0), ('我', 7040.0, 7540.0), ('来', 8355.0, 8855.0), ('杯', 12434.999, 12514.999), ('绿', 12594.999, 13094.999), ('茶', 14195.0, 14695.0), ('吧', 15235.0, 15735.0)]
+user's tone transcript'
+[' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', '\n']
+starting compare_lists 
+compare_lists percent similarity: 0.0
+words not in common: ['/', '-', '\\', 'V', 'V', '/', '-', '\\', '-']
+wrong vocab positions[0, 1, 2, 3, 4, 5, 6, 7, 8]
+tones compared 
+end-queue response: 200
+cleanup response: 200
+Uploading new file: {'file': ('Sentence 6.m4a', <_io.BufferedReader name='/Users/viyang/Downloads/Sentence 6.m4a'>, 'audio/m4a')}
+push-queue response: 500
+the queue has ended, starting post-processing
+Correct tone transcript['\\', '/', 'V', '-']
+transcript: [('绿', 1153.8281, 1507.6562), ('茶', 2320.0, 2820.0), ('异', 4400.0, 4640.0), ('杯', 4720.0, 5220.0)]
+user's tone transcript'
+[' na ', ' na ', ' na ', ' na ', '\n']
+starting compare_lists 
+compare_lists percent similarity: 0.0
+words not in common: ['\\', '/', 'V', '-']
+wrong vocab positions[0, 1, 2, 3]
+tones compared 
+end-queue response: 200
+cleanup response: 200
+Uploading new file: {'file': ('Sentence 7.m4a', <_io.BufferedReader name='/Users/viyang/Downloads/Sentence 7.m4a'>, 'audio/m4a')}
+push-queue response: 500
+the queue has ended, starting post-processing
+Correct tone transcript['\\', 'V', 'V', '\\', '\\', '-', '/', '\\', '\\', '-', 'V', 'V', '/', 'V', '\\', '\\', '-', '/', '\\']
+transcript: [('再', 719.9999700000001, 1220.0), ('来', 2159.9998, 2659.9998), ('一', 3520.0, 4019.9999999999995), ('份', 5759.9998000000005, 6000.0), ('法', 6240.0, 6740.0), ('事', 7520.0, 8020.0), ('早', 8800.0, 9300.0), ('餐', 10185.0, 10685.0), ('吧', 11465.0, 11945.0), ('另', 13145.0, 13645.0), ('外', 15065.001, 15385.0), ('请', 15465.0, 15965.0), ('给', 16665.0, 17165.0), ('我', 18105.0, 18605.0), ('朋', 20449.999, 20650.0), ('友', 20850.0, 21170.0), ('来', 22450.0, 22950.0), ('移', 24130.0, 24630.0), ('份、', 25392.936999999998, 25892.936999999998), ('中', 26752.936999999998, 27252.936999999998), ('式', 27952.938, 28452.938), ('早', 29232.936999999998, 29732.936999999998), ('餐', 31242.937, 31742.937)]
+user's tone transcript'
+[' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', '\n']
+starting compare_lists 
+compare_lists percent similarity: 0.0
+words not in common: ['\\', 'V', 'V', '\\', '\\', '-', '/', '\\', '\\', '-', 'V', 'V', '/', 'V', '\\', '\\', '-', '/', '\\']
+wrong vocab positions[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+tones compared 
+end-queue response: 200
+cleanup response: 200
+Uploading new file: {'file': ('Sentence 8.m4a', <_io.BufferedReader name='/Users/viyang/Downloads/Sentence 8.m4a'>, 'audio/m4a')}
+push-queue response: 500
+the queue has ended, starting post-processing
+Correct tone transcript['V', '-', '\\', 'V', '\\', '\\', '-', '\\', '-']
+transcript: [('好', 1360.0, 1760.0), ('的', 4000.0, 4160.0), ('就', 4720.0, 5220.0), ('点', 5839.9997, 6339.9997), ('者', 6649.9996, 7149.9996), ('谢', 13011.686, 13246.688)]
+user's tone transcript'
+[' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', ' na ', '\n']
+starting compare_lists 
+compare_lists percent similarity: 0.0
+words not in common: ['V', '-', '\\', 'V', '\\', '\\', '-', '\\', '-']
+wrong vocab positions[0, 1, 2, 3, 4, 5, 6, 7, 8]
+tones compared 
+end-queue response: 200
+cleanup response: 200

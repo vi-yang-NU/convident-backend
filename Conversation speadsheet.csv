@@ -1,0 +1,135 @@
+ID,Tags,Dialect,dialogue script,tone transcript
+1,"{""dining"", ""hotel"", ""waitress""}","""Taiwanese""","Context: You are at a chinese hotel, and are about to check into their dining option for breakfast. You approach the front desk that will let you into the buffet area. 
+
+Speaker A (Waitress): 您好，见天有几位？ 
+
+Speaker B (Customer): 两位，两位。 
+
+Speaker A (Waitress):  请问您们的房间号是多少？
+
+Speaker B (Customer): 二百五
+
+Speaker A (Waitress):  好的，请稍等，我带您们去座位。
+
+Speaker B (Customer): 好的好的，谢谢您
+
+Speaker A (Waitress): 那您今天有幸点我们的特色厨师餐。您可以从以下菜单中选择，有水煮蛋或煎蛋，法式早餐，美式早餐，还有中式早餐。水果和米饭在旁边的自助区，您可以随时取用。食物大约需要10到15分钟准备好。
+
+Speaker B (Customer): 好的，听起来还不错。
+
+Speaker A (Waitress): 我给您一些时间看看菜单，一会儿回来为您点单。
+
+Speaker B (Customer): 你好！先给我来一杯绿茶吧。
+
+Speaker A (Waitress): 姐姐，我们可点了。 
+
+Speaker B (Customer): 绿茶一杯。
+
+Speaker A (Waitress): 好的，绿茶一杯。在有什么？
+
+Speaker B (Customer): 再来一份法式早餐吧，另外请给我朋友来一份中式早餐。
+
+Speaker A (Waitress): 好的，一份法式早餐和一份中式早餐。 明白了。还有其他需要的吗？
+
+Speaker B (Customer): 好的，就点这，谢谢，谢谢。
+
+Speaker A (Waitress): 好的，有问题请教。
+
+
+","V \ V \
+\ V V
+V - V - \ - /
+V - \ / V \ - /
+/ - \ V V / - \ -
+\ / V -
+\ V V \ \ - / \ \ - V V / V \ \ - / \
+V - \ V \ \ - \ -"
+2,"{""uncomfortable"", ""culture shock"", ""passing-by conversation""}","""Si-Chuan""","Context: You were taking a vlog of yourself as you pass by a store when the shop owner pulled out her phone and started recording you 
+
+Person A (shop owner): Hallo! 
+
+Person B (tourist): 你好你好！ 
+
+Person A (shop owner): (she said in a friendly tone）你好，你好帅哥! 我也拍你啊！没有…
+
+Person B (tourist): 啊牌？ 可以可以可以
+
+Person A (shop owner): Hallo! 
+
+Person B (tourist): 你要跟我粉絲们打个招呼吗? 
+
+Person A (shop owner): Hi! Hi! 
+
+Person B (tourist): 谢谢，谢谢
+
+Person A (shop owner): 不谢不谢
+
+Person B (tourist): 你们这地方叫啥
+
+Person A (shop owner): 叫盐津镇
+
+Person A (shop owner)：乡下，乡下一块小镇
+
+Person B (tourist): 好的好的好的，谢谢，你们这里非常受欢迎
+
+Person A (shop owner)：哎呀你，你欢饮欢饮你的朋友到我们盐津来玩。
+
+Person B (tourist): 好的好的好的， 
+
+Person A (shop owner)：你是来这里旅游的吗
+
+Person B (tourist): 对对我是来这里玩的
+
+Person A (shop owner)：哦
+
+Person B (tourist): 好谢谢，谢谢，
+
+Person A (shop owner)：欢饮你朋友来玩啊
+
+Person B (tourist): 以后我们来这里玩
+
+Person A (shop owner)：好
+
+Person B (tourist): 好谢谢，谢谢， 我先走了
+
+Person A (shop owner)：再见
+
+Person B (tourist): 谢谢
+
+","/ - / -
+/ \ V \ V \ V \
+/ \ - V / - \ - / - -
+\ - \ -
+/ - \ \ - \ /
+\ - \ - /
+V - V - V - \ - / \ \ - \ - - / \ -
+V - V - V -
+\ \ \ - \ \ -
+V \ \ -
+\ \ - - \ \ -
+V \ \ - / V \
+\ \
+
+
+
+
+
+
+
+
+
+
+"
+3,,,,
+4,,,,
+5,,,,
+6,,,,
+7,,,,
+8,,,,
+9,,,,
+10,,,,
+11,,,,
+12,,,,
+13,,,,
+14,,,,
+15,,,,
